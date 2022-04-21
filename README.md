@@ -6,7 +6,7 @@ Ao abrir esta porta, encontra-se noutra divisao da casa, no caso a sala. E daqui
 
 Mecanicas
 Personagem:
--move-se em todas as direcoes;
+-move-se em todas as direcoes (usando as teclas W, A, S, D);
 -anda e corre;
 -nao salta;
 -arrasta objetos;
@@ -25,5 +25,10 @@ Estetica
 Apresenta um ambiente escuro e um estilo artistico do estilo de Omori. Uma vez que e um jogo de terror, incorpora um estilo infantil misturado com terror.
 O som incorpora-se com o jogo. Enquanto esta na primeira zona consegue ouvir barulhos da segunda zona. A primeira zona tem sons mais calmos enquanto que na segunda ha sons mais intensoes.
 Relativamente a UI, esta vai contrastrar com a estetica do jogo, vai ser mais alegre e colorida.
+Serao usados modelos 3D e texturizados de acordo com o estilo de terror do jogo.
+
+Tecnologias
+Vai ser usado o unity;
+O teclado e o rato para controlar a personagem.
 
 
