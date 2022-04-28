@@ -1,5 +1,11 @@
 # Grupo8_escapeRoom
+
+Ana Ribeiro;
+Eugenia Pacheco;
+Rafael Martins.
+ 
 Nome do jogo: Dark Room
+
 
 Narrativa
 Anabelle, uma menina de apenas 7 anos, que vive num mundo de guerra. Apos a tragica morte dos pais, esta fica sozinha no quarto. Depois de dias a chorar, levanta-se e ve que esta presa no quarto. Neste ambiente escuro, tenta entao procurar uma maneira de sair. No entanto, os barulhos do lado de fora da porta deixam-na reticente.
