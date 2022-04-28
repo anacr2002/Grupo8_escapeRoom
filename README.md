@@ -1,4 +1,6 @@
 # Grupo8_escapeRoom
+Nome do jogo: Dark Room
+
 Narrativa
 Anabelle, uma menina de apenas 7 anos, que vive num mundo de guerra. Apos a tragica morte dos pais, esta fica sozinha no quarto. Depois de dias a chorar, levanta-se e ve que esta presa no quarto. Neste ambiente escuro, tenta entao procurar uma maneira de sair. No entanto, os barulhos do lado de fora da porta deixam-na reticente.
 Curiosa, a menina vasculha o quarto a procura de algo para abrir a porta. Ao olhar atentamente para as paredes, repara que os desenhos expostos se encontram com dicas escondidas. Ao reparar na dica, pressiona  os botoes que se encontram perto da porta pela ordem indicada.
