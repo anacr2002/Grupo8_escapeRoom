@@ -152,7 +152,8 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.Grupo8-escapeRoom
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -687,7 +688,7 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 1
+  activeInputHandler: 2
   cloudProjectId: 4c5d0e6a-ea8b-4e88-8635-24251eb76a51
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
