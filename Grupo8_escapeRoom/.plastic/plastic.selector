@@ -1,0 +1,4 @@
+repository "Grupo8_escapeRoom@os_fixes_grupo8@cloud"
+  path "/"
+    br "/main"
+    co "/main"
