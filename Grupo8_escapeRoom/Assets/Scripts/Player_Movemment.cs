@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 public class Player_Movemment : MonoBehaviour
 {
     private CharacterController characterController;
-    private float speed = 0.5f;
+    private float speed = 5.0f;
     private Vector2 playerMovementInput;
    
     void Start()
